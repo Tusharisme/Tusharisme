@@ -1,16 +1,15 @@
 ## Hi there 👋
+          
+## About Me
+- 🔭 I'm currently working on life
+- 🌱 I'm learning how to survive
+- 💬 Ask me about how to not give up!
+- 📫 How to reach me: tusharjalan20212138@gmail.com 😊
 
-<!--
-**Tusharisme/Tusharisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+- Languages: Python, JavaScript, etc.
+- Frameworks: React, Node.js, etc.
+- Tools: Git, Docker, etc.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Tusharisme&show_icons=true)
